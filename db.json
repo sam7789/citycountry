@@ -1,0 +1,65 @@
+{
+  "country": [
+    {
+      "id": 1,
+      "country": "India"
+    },
+    {
+      "id": 2,
+      "country": "Russia"
+    },
+    {
+      "id": 3,
+      "country": "Ukraine"
+    },
+
+    {
+      "id": 4,
+      "country": "Japan"
+    },
+    {
+      "id": 5,
+      "country": "Mexico"
+    },
+    {
+      "id": 6,
+      "country": "New Zealand"
+    },
+    {
+      "id": 7,
+      "country": "France"
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "Country": "Switzerland",
+      "City": "Bern",
+      "Population": "8000000"
+    },
+    {
+      "id": 2,
+      "Country": "Mexico",
+      "City": "Mexico City",
+      "Population": "8000000"
+    },
+    {
+      "id": 3,
+      "Country": "France",
+      "City": "Paris",
+      "Population": "8000000"
+    },
+    {
+      "id": 4,
+      "Country": "Japan",
+      "City": "Tokyo",
+      "Population": "34630000"
+    },
+    {
+      "id": 5,
+      "Country": "Russia",
+      "City": "Moscow",
+      "Population": "14000000"
+    }
+  ]
+}
